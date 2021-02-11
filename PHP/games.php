@@ -3,8 +3,8 @@
 
     ini_set('display_errors', 1);
 
-    $offset = isset($_GET['offset']) ? intval($_GET['offset']) : 0;
-    $limit = isset($_GET['limit']) ? intval($_GET['limit']) : 20;
+    $offset = isset($_GET['offset']) && !empty($_GET['offset']) ? intval($_GET['offset']) : 0;
+    $limit = isset($_GET['limit']) && !empty($_GET['limit']) ? intval($_GET['limit']) : 20;
     $db = getDatabaseConnection();
     $where = [];
     $params = [];
