@@ -7,8 +7,8 @@
     {
       "type": "pwa-chrome",
       "request": "launch",
-      "name": "Launch Chrome against localhost",
-      "url": "http://localhost:81",
+      "name": "CSStats",
+      "url": "http://viviansrv.ddns.net",
       "webRoot": "${workspaceFolder}"
     }
   ]
