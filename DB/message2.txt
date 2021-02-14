@@ -1,0 +1,2677 @@
+<tbody><tr>
+	<th class="col_left">Map</th>
+	<th>Match Results</th>
+</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 21:55:26 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:37					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 12:37					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay132.valve.net/730/003464251429030462082_1311094374.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>3</td>
+		<td>18</td>
+		<td>1</td>
+		<td>7</td>
+		<td>9</td>
+		<td>55%</td>
+		<td>39</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>12</td>
+		<td>4</td>
+		<td>3</td>
+		<td>10</td>
+		<td>&nbsp;</td>
+		<td>50%</td>
+		<td>14</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 7</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/bialyas"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/fb/fbb6de082df6655d5be7fa40caaa40b97482a87b.jpg" alt="" data-miniprofile="260068441"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/bialyas" data-miniprofile="260068441">RTK</a></div>
+		</td>
+		<td>67</td>
+		<td>16</td>
+		<td>0</td>
+		<td>9</td>
+		<td>6</td>
+		<td>43%</td>
+		<td>32</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198370844014"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/0e/0e9fd4a2103c671ba828a8d773bc9185338734d1.jpg" alt="" data-miniprofile="410578286"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198370844014" data-miniprofile="410578286">MLODY ARUSEK</a></div>
+		</td>
+		<td>67</td>
+		<td>1</td>
+		<td>3</td>
+		<td>13</td>
+		<td>1</td>
+		<td>&nbsp;</td>
+		<td>5</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 21:42:14 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:21					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 10:34					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003464249427575701960_1321941792.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198797143340"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/cf/cf0af4010b9d5bce1f13a86b7b58fd63935740a2.jpg" alt="" data-miniprofile="836877612"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198797143340" data-miniprofile="836877612">Zeca Estacionancio CSGOWIN.RU</a></div>
+		</td>
+		<td>21</td>
+		<td>11</td>
+		<td>0</td>
+		<td>9</td>
+		<td>4</td>
+		<td>27%</td>
+		<td>22</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/tradeban76561198834414080"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e2/e2f9b10413cd4ac4dbcfdee772b3f8ef55770a5b.jpg" alt="" data-miniprofile="874148352"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/tradeban76561198834414080" data-miniprofile="874148352">Mc Kilates</a></div>
+		</td>
+		<td>16</td>
+		<td>4</td>
+		<td>1</td>
+		<td>11</td>
+		<td>1</td>
+		<td>75%</td>
+		<td>11</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">5 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>11</td>
+		<td>9</td>
+		<td>4</td>
+		<td>7</td>
+		<td>6</td>
+		<td>55%</td>
+		<td>24</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>19</td>
+		<td>11</td>
+		<td>0</td>
+		<td>8</td>
+		<td>3</td>
+		<td>45%</td>
+		<td>22</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 21:30:06 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:28					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 08:21					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003464247636574339903_2064240468.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>27</td>
+		<td>10</td>
+		<td>2</td>
+		<td>3</td>
+		<td>6</td>
+		<td>40%</td>
+		<td>25</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>28</td>
+		<td>9</td>
+		<td>2</td>
+		<td>4</td>
+		<td>3</td>
+		<td>55%</td>
+		<td>22</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 2</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198357990070"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/94/94a33c2e91c98d7777d6c1a395b6b517b19bfb95.jpg" alt="" data-miniprofile="397724342"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198357990070" data-miniprofile="397724342">gtn</a></div>
+		</td>
+		<td>18</td>
+		<td>4</td>
+		<td>1</td>
+		<td>10</td>
+		<td>1</td>
+		<td>50%</td>
+		<td>9</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198405640793"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/b3/b3a514348e43d5d9c516f8cddcd7e5888a91fd91.jpg" alt="" data-miniprofile="445375065"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198405640793" data-miniprofile="445375065">♕Mr Shelby♕</a></div>
+		</td>
+		<td>34</td>
+		<td>3</td>
+		<td>0</td>
+		<td>9</td>
+		<td>1</td>
+		<td>&nbsp;</td>
+		<td>8</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 17:36:22 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:13					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 10:17					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003464217722127123049_0031385526.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>13</td>
+		<td>11</td>
+		<td>2</td>
+		<td>3</td>
+		<td>5</td>
+		<td>18%</td>
+		<td>24</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>23</td>
+		<td>7</td>
+		<td>3</td>
+		<td>3</td>
+		<td>4</td>
+		<td>28%</td>
+		<td>17</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 1</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198183714095"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/f3/f3adc7aca9dc477bdd6b21e69f8ef05082712a73.jpg" alt="" data-miniprofile="223448367"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198183714095" data-miniprofile="223448367">Sijrox</a></div>
+		</td>
+		<td>31</td>
+		<td>5</td>
+		<td>0</td>
+		<td>9</td>
+		<td>1</td>
+		<td>100%</td>
+		<td>10</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Niklas_TSV"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/c1/c187b9434d7bd931f03cc78873cf0a77027613d2.jpg" alt="" data-miniprofile="324326737"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Niklas_TSV" data-miniprofile="324326737">xNikl4Z</a></div>
+		</td>
+		<td>57</td>
+		<td>1</td>
+		<td>0</td>
+		<td>9</td>
+		<td>&nbsp;</td>
+		<td>100%</td>
+		<td>2</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 17:17:10 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:21					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 14:03					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay192.valve.net/730/003464215739999715893_1241798898.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>21</td>
+		<td>17</td>
+		<td>1</td>
+		<td>8</td>
+		<td>6</td>
+		<td>29%</td>
+		<td>37</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>28</td>
+		<td>7</td>
+		<td>4</td>
+		<td>8</td>
+		<td>3</td>
+		<td>57%</td>
+		<td>20</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 7</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Niklas_TSV"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/c1/c187b9434d7bd931f03cc78873cf0a77027613d2.jpg" alt="" data-miniprofile="324326737"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Niklas_TSV" data-miniprofile="324326737">xNikl4Z</a></div>
+		</td>
+		<td>37</td>
+		<td>8</td>
+		<td>1</td>
+		<td>12</td>
+		<td>3</td>
+		<td>50%</td>
+		<td>21</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198183714095"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/f3/f3adc7aca9dc477bdd6b21e69f8ef05082712a73.jpg" alt="" data-miniprofile="223448367"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198183714095" data-miniprofile="223448367">Sijrox</a></div>
+		</td>
+		<td>16</td>
+		<td>8</td>
+		<td>3</td>
+		<td>12</td>
+		<td>4</td>
+		<td>50%</td>
+		<td>19</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 17:04:54 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:39					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 09:16					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003464213616138387758_0292294767.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Here2_Win"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/df/df1cc6f5779970e096b0932aff1403b9bdca9ece.jpg" alt="" data-miniprofile="393013605"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Here2_Win" data-miniprofile="393013605">Entourloupe</a></div>
+		</td>
+		<td>33</td>
+		<td>9</td>
+		<td>0</td>
+		<td>6</td>
+		<td>5</td>
+		<td>20%</td>
+		<td>22</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198301564129"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/be/bee7ffb9a44f63ba2457c0dd59b81f65e852d37f.jpg" alt="" data-miniprofile="341298401"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198301564129" data-miniprofile="341298401">Lyx</a></div>
+		</td>
+		<td>26</td>
+		<td>8</td>
+		<td>1</td>
+		<td>9</td>
+		<td>4</td>
+		<td>12%</td>
+		<td>17</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 4</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>14</td>
+		<td>10</td>
+		<td>3</td>
+		<td>9</td>
+		<td>4</td>
+		<td>70%</td>
+		<td>23</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>28</td>
+		<td>4</td>
+		<td>1</td>
+		<td>9</td>
+		<td>&nbsp;</td>
+		<td>25%</td>
+		<td>11</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 16:50:30 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:12					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 11:43					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay193.valve.net/730/003464211994788233329_1786023461.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198877032107"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/c0/c046fedb875b68503a22c72e2122384ada61341e.jpg" alt="" data-miniprofile="916766379"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198877032107" data-miniprofile="916766379">killer csgorun.pro cs.fail</a></div>
+		</td>
+		<td>47</td>
+		<td>9</td>
+		<td>1</td>
+		<td>9</td>
+		<td>2</td>
+		<td>33%</td>
+		<td>22</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Nillenblackteam"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/a9/a9f4d28fd0109282e8d59133b933b8a80a8d1ca4.jpg" alt="" data-miniprofile="446098766"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Nillenblackteam" data-miniprofile="446098766">🚦Nillen🚦 YOUTUBE ⬜</a></div>
+		</td>
+		<td>31</td>
+		<td>8</td>
+		<td>4</td>
+		<td>11</td>
+		<td>4</td>
+		<td>37%</td>
+		<td>22</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">6 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>22</td>
+		<td>14</td>
+		<td>0</td>
+		<td>10</td>
+		<td>7</td>
+		<td>28%</td>
+		<td>28</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>30</td>
+		<td>6</td>
+		<td>1</td>
+		<td>7</td>
+		<td>2</td>
+		<td>16%</td>
+		<td>18</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-12 16:38:46 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:18					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 07:46					</td>
+				</tr>
+												<tr>
+					<td>
+						Viewers: 1					</td>
+				</tr>
+													<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay192.valve.net/730/003464210031988179327_1995745608.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>29</td>
+		<td>8</td>
+		<td>1</td>
+		<td>9</td>
+		<td>3</td>
+		<td>62%</td>
+		<td>17</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>28</td>
+		<td>3</td>
+		<td>2</td>
+		<td>12</td>
+		<td>1</td>
+		<td>66%</td>
+		<td>8</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">4 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Nillenblackteam"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/a9/a9f4d28fd0109282e8d59133b933b8a80a8d1ca4.jpg" alt="" data-miniprofile="446098766"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Nillenblackteam" data-miniprofile="446098766">🚦Nillen🚦 YOUTUBE ⬜</a></div>
+		</td>
+		<td>31</td>
+		<td>10</td>
+		<td>2</td>
+		<td>6</td>
+		<td>5</td>
+		<td>30%</td>
+		<td>26</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198877032107"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/c0/c046fedb875b68503a22c72e2122384ada61341e.jpg" alt="" data-miniprofile="916766379"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198877032107" data-miniprofile="916766379">killer csgorun.pro cs.fail</a></div>
+		</td>
+		<td>48</td>
+		<td>11</td>
+		<td>1</td>
+		<td>5</td>
+		<td>4</td>
+		<td>36%</td>
+		<td>23</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr>
+<tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 21:35:02 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:05					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 10:44					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay134.valve.net/730/003464063004520219016_1728617132.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>12</td>
+		<td>11</td>
+		<td>1</td>
+		<td>7</td>
+		<td>4</td>
+		<td>27%</td>
+		<td>27</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>11</td>
+		<td>10</td>
+		<td>4</td>
+		<td>9</td>
+		<td>5</td>
+		<td>40%</td>
+		<td>24</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 6</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561197978067430"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg" alt="" data-miniprofile="17801702"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561197978067430" data-miniprofile="17801702">Herminator</a></div>
+		</td>
+		<td>22</td>
+		<td>11</td>
+		<td>2</td>
+		<td>11</td>
+		<td>4</td>
+		<td>72%</td>
+		<td>24</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198046879311"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/25/258b38da0a17b550540f6e019a70e2533861158f.jpg" alt="" data-miniprofile="86613583"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198046879311" data-miniprofile="86613583">Luk[e]</a></div>
+		</td>
+		<td>21</td>
+		<td>5</td>
+		<td>1</td>
+		<td>10</td>
+		<td>2</td>
+		<td>60%</td>
+		<td>11</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 21:23:50 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:21					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 07:54					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay188.valve.net/730/003464061166274216226_1786426769.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>29</td>
+		<td>12</td>
+		<td>2</td>
+		<td>3</td>
+		<td>8</td>
+		<td>33%</td>
+		<td>28</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>37</td>
+		<td>8</td>
+		<td>3</td>
+		<td>6</td>
+		<td>1</td>
+		<td>62%</td>
+		<td>19</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 2</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198801016029"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/95/950f9f3147d4c8530a5072825d01c34ee3f1afa1.jpg" alt="" data-miniprofile="840750301"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198801016029" data-miniprofile="840750301">dtntr</a></div>
+		</td>
+		<td>86</td>
+		<td>6</td>
+		<td>2</td>
+		<td>10</td>
+		<td>2</td>
+		<td>33%</td>
+		<td>14</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/RIDEERxS"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/53/5396233abcfc4fa9944bb0575f255a334cdaa55a.jpg" alt="" data-miniprofile="348227645"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/RIDEERxS" data-miniprofile="348227645">ako</a></div>
+		</td>
+		<td>67</td>
+		<td>3</td>
+		<td>1</td>
+		<td>10</td>
+		<td>&nbsp;</td>
+		<td>33%</td>
+		<td>7</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 21:09:26 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:03					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 11:01					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay134.valve.net/730/003464059804769583135_1833152944.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198801016029"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/95/950f9f3147d4c8530a5072825d01c34ee3f1afa1.jpg" alt="" data-miniprofile="840750301"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198801016029" data-miniprofile="840750301">dtntr</a></div>
+		</td>
+		<td>63</td>
+		<td>12</td>
+		<td>3</td>
+		<td>11</td>
+		<td>4</td>
+		<td>50%</td>
+		<td>27</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/RIDEERxS"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/53/5396233abcfc4fa9944bb0575f255a334cdaa55a.jpg" alt="" data-miniprofile="348227645"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/RIDEERxS" data-miniprofile="348227645">ako</a></div>
+		</td>
+		<td>66</td>
+		<td>7</td>
+		<td>1</td>
+		<td>9</td>
+		<td>4</td>
+		<td>28%</td>
+		<td>15</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">8 : 8</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>14</td>
+		<td>13</td>
+		<td>0</td>
+		<td>9</td>
+		<td>4</td>
+		<td>38%</td>
+		<td>28</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>10</td>
+		<td>7</td>
+		<td>5</td>
+		<td>10</td>
+		<td>4</td>
+		<td>28%</td>
+		<td>19</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 20:55:42 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:14					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 10:32					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003464057904246554819_1403722091.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>20</td>
+		<td>12</td>
+		<td>2</td>
+		<td>9</td>
+		<td>8</td>
+		<td>33%</td>
+		<td>26</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>28</td>
+		<td>7</td>
+		<td>0</td>
+		<td>10</td>
+		<td>1</td>
+		<td>57%</td>
+		<td>14</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 7</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/dzijo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/45/457baa5a1c6bcc96016b0d53079e574cceafe14f.jpg" alt="" data-miniprofile="314155392"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/dzijo" data-miniprofile="314155392">oji</a></div>
+		</td>
+		<td>57</td>
+		<td>11</td>
+		<td>0</td>
+		<td>9</td>
+		<td>3</td>
+		<td>36%</td>
+		<td>22</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/id/nieplakuni"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/b7/b7fab9e2c4c00b4a91bfae7658d1f06582608f83.jpg" alt="" data-miniprofile="246158776"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/nieplakuni" data-miniprofile="246158776">miruni</a></div>
+		</td>
+		<td>46</td>
+		<td>8</td>
+		<td>1</td>
+		<td>10</td>
+		<td>4</td>
+		<td>62%</td>
+		<td>17</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 20:36:38 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:32					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 15:30					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003464056229209309244_1873334424.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>27</td>
+		<td>16</td>
+		<td>3</td>
+		<td>9</td>
+		<td>7</td>
+		<td>43%</td>
+		<td>35</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>28</td>
+		<td>7</td>
+		<td>2</td>
+		<td>11</td>
+		<td>2</td>
+		<td>14%</td>
+		<td>16</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 7</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198027345476"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/9c/9c609462f8c8169ec953813979f176ce8be94a91.jpg" alt="" data-miniprofile="67079748"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198027345476" data-miniprofile="67079748">Frantajouda</a></div>
+		</td>
+		<td>46</td>
+		<td>15</td>
+		<td>1</td>
+		<td>10</td>
+		<td>6</td>
+		<td>53%</td>
+		<td>33</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198453036435"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/c2/c2695a2d89e1ca8b676b5d3b4148a47c51b025b0.jpg" alt="" data-miniprofile="492770707"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198453036435" data-miniprofile="492770707">KOKOT OBECNÝ</a></div>
+		</td>
+		<td>65</td>
+		<td>5</td>
+		<td>5</td>
+		<td>13</td>
+		<td>1</td>
+		<td>40%</td>
+		<td>15</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 20:20:06 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:43					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 13:26					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay187.valve.net/730/003464053740275761602_1963932117.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>37</td>
+		<td>13</td>
+		<td>0</td>
+		<td>10</td>
+		<td>7</td>
+		<td>46%</td>
+		<td>26</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>35</td>
+		<td>8</td>
+		<td>1</td>
+		<td>11</td>
+		<td>1</td>
+		<td>25%</td>
+		<td>19</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">8 : 8</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/wetto1337"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/6a/6a068a23db4e67ecd6328e5b70b56559ecb6fd0d.jpg" alt="" data-miniprofile="494184318"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/wetto1337" data-miniprofile="494184318">"Svintus.Pro" LeonidFrost</a></div>
+		</td>
+		<td>23</td>
+		<td>12</td>
+		<td>1</td>
+		<td>10</td>
+		<td>6</td>
+		<td>41%</td>
+		<td>25</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/id/teSkiGanGteSkiSquaD"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/4a/4aa61a466cac2cb63f766ec5b396d2b47ccb41c9.jpg" alt="" data-miniprofile="182166853"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/teSkiGanGteSkiSquaD" data-miniprofile="182166853">lcglcglcglcglcglcglcglcglcglcg</a></div>
+		</td>
+		<td>24</td>
+		<td>9</td>
+		<td>3</td>
+		<td>11</td>
+		<td>2</td>
+		<td>22%</td>
+		<td>21</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 18:12:47 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 02:28					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 06:02					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay192.valve.net/730/003464036414377689457_1962564187.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198362228843"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/97/97ca3df2fa49f2e1954665c354d8729b42da8264.jpg" alt="" data-miniprofile="401963115"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198362228843" data-miniprofile="401963115">L1M1T</a></div>
+		</td>
+		<td>37</td>
+		<td>12</td>
+		<td>0</td>
+		<td>2</td>
+		<td>8</td>
+		<td>58%</td>
+		<td>24</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198388537633"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/51/51fae997b9c0e271a8fc73b4e10f1e292245f9c5.jpg" alt="" data-miniprofile="428271905"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198388537633" data-miniprofile="428271905">BLB-5200</a></div>
+		</td>
+		<td>59</td>
+		<td>5</td>
+		<td>2</td>
+		<td>2</td>
+		<td>1</td>
+		<td>66%</td>
+		<td>12</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 0</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>32</td>
+		<td>2</td>
+		<td>0</td>
+		<td>9</td>
+		<td>&nbsp;</td>
+		<td>50%</td>
+		<td>4</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>19</td>
+		<td>1</td>
+		<td>1</td>
+		<td>9</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>3</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 17:43:11 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:07					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 14:24					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay192.valve.net/730/003464033599026627052_0744525166.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198846563265"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/25/2581d3a69aae97d60790b4679541a345644228d2.jpg" alt="" data-miniprofile="886297537"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198846563265" data-miniprofile="886297537">SwchekS</a></div>
+		</td>
+		<td>88</td>
+		<td>13</td>
+		<td>1</td>
+		<td>7</td>
+		<td>7</td>
+		<td>23%</td>
+		<td>27</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198985087257"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/fa/fa1fde031f02e344816368ef5a992184f7ebb8d1.jpg" alt="" data-miniprofile="1024821529"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198985087257" data-miniprofile="1024821529">-d 2</a></div>
+		</td>
+		<td>58</td>
+		<td>7</td>
+		<td>3</td>
+		<td>8</td>
+		<td>2</td>
+		<td>42%</td>
+		<td>19</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 5</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>28</td>
+		<td>10</td>
+		<td>2</td>
+		<td>11</td>
+		<td>3</td>
+		<td>10%</td>
+		<td>22</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>30</td>
+		<td>5</td>
+		<td>2</td>
+		<td>9</td>
+		<td>2</td>
+		<td>40%</td>
+		<td>12</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-11 17:29:19 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:07					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 08:39					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay192.valve.net/730/003464031258269450945_2013823539.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>29</td>
+		<td>6</td>
+		<td>2</td>
+		<td>11</td>
+		<td>1</td>
+		<td>33%</td>
+		<td>14</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>27</td>
+		<td>6</td>
+		<td>1</td>
+		<td>9</td>
+		<td>3</td>
+		<td>33%</td>
+		<td>13</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">4 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198302388590"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/20/2045ab310551cb67569ca3936728e34e17290567.jpg" alt="" data-miniprofile="342122862"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198302388590" data-miniprofile="342122862">Xue</a></div>
+		</td>
+		<td>27</td>
+		<td>13</td>
+		<td>2</td>
+		<td>7</td>
+		<td>5</td>
+		<td>61%</td>
+		<td>28</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198989543957"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/1d/1dd74732f5b8c38b192ac8ebbd578026e5656c6f.jpg" alt="" data-miniprofile="1029278229"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198989543957" data-miniprofile="1029278229">°•.FeLiX.•°</a></div>
+		</td>
+		<td>90</td>
+		<td>7</td>
+		<td>0</td>
+		<td>5</td>
+		<td>4</td>
+		<td>57%</td>
+		<td>14</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-10 22:10:02 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:06					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 15:00					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay190.valve.net/730/003463882577239081293_0629602051.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Obvious_Potato"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/d3/d304366ea7f1fdf139eba746596613ab16d62a64.jpg" alt="" data-miniprofile="319087971"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Obvious_Potato" data-miniprofile="319087971">Obvious_Potato</a></div>
+		</td>
+		<td>27</td>
+		<td>13</td>
+		<td>3</td>
+		<td>9</td>
+		<td>6</td>
+		<td>50%</td>
+		<td>31</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198142090497"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/28/289689418a6fe99fbeb67d40ab492d289fdd341d.jpg" alt="" data-miniprofile="181824769"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198142090497" data-miniprofile="181824769">Sneaky Potato</a></div>
+		</td>
+		<td>33</td>
+		<td>4</td>
+		<td>0</td>
+		<td>10</td>
+		<td>2</td>
+		<td>40%</td>
+		<td>8</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">8 : 8</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>27</td>
+		<td>12</td>
+		<td>0</td>
+		<td>9</td>
+		<td>6</td>
+		<td>16%</td>
+		<td>24</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>35</td>
+		<td>5</td>
+		<td>5</td>
+		<td>10</td>
+		<td>2</td>
+		<td>80%</td>
+		<td>15</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-10 21:57:14 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:01					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 08:53					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay181.valve.net/730/003463880165614944428_2110050198.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/profiles/76561198185062846"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/57/5746487181edd1ad30dd114dc7788d5b0a2c859f.jpg" alt="" data-miniprofile="224797118"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198185062846" data-miniprofile="224797118">Big Brother #blyat</a></div>
+		</td>
+		<td>42</td>
+		<td>8</td>
+		<td>1</td>
+		<td>9</td>
+		<td>2</td>
+		<td>62%</td>
+		<td>17</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198143040847"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/b8/b854fb1dbe76c37cf00a4695790486a4ab860cfc.jpg" alt="" data-miniprofile="182775119"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198143040847" data-miniprofile="182775119">AveragePlayer</a></div>
+		</td>
+		<td>43</td>
+		<td>3</td>
+		<td>1</td>
+		<td>11</td>
+		<td>&nbsp;</td>
+		<td>33%</td>
+		<td>7</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">2 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>29</td>
+		<td>11</td>
+		<td>1</td>
+		<td>6</td>
+		<td>6</td>
+		<td>36%</td>
+		<td>23</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>37</td>
+		<td>9</td>
+		<td>3</td>
+		<td>5</td>
+		<td>3</td>
+		<td>55%</td>
+		<td>23</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-10 21:45:54 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:59					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 07:41					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay188.valve.net/730/003463878507757568336_1763384716.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>30</td>
+		<td>6</td>
+		<td>1</td>
+		<td>9</td>
+		<td>3</td>
+		<td>33%</td>
+		<td>13</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>33</td>
+		<td>2</td>
+		<td>1</td>
+		<td>10</td>
+		<td>&nbsp;</td>
+		<td>50%</td>
+		<td>5</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">3 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/MiRA87"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/c1/c116439ea5b7dee81c9cfeb9813ee5258472206b.jpg" alt="" data-miniprofile="246898112"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/MiRA87" data-miniprofile="246898112">MiRA</a></div>
+		</td>
+		<td>50</td>
+		<td>13</td>
+		<td>1</td>
+		<td>4</td>
+		<td>6</td>
+		<td>64%</td>
+		<td>27</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/profiles/76561198386495753"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/bc/bce419726b975d860e36665e8e9bbc93a7d2ff05.jpg" alt="" data-miniprofile="426230025"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198386495753" data-miniprofile="426230025">Twilight Спуркл</a></div>
+		</td>
+		<td>26</td>
+		<td>5</td>
+		<td>0</td>
+		<td>5</td>
+		<td>3</td>
+		<td>40%</td>
+		<td>10</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-10 21:31:46 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:24					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 10:17					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay184.valve.net/730/003463877071091007633_0351536629.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/theoneandonlyatom"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/4d/4d406174e7be6cb26bec619bab6976aab489c62b.jpg" alt="" data-miniprofile="327635804"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/theoneandonlyatom" data-miniprofile="327635804">ムԵՕՊ</a></div>
+		</td>
+		<td>36</td>
+		<td>5</td>
+		<td>1</td>
+		<td>9</td>
+		<td>1</td>
+		<td>60%</td>
+		<td>13</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198192293053"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e7/e734e8de1e137c81dd5665dc45bbbba29f039ab3.jpg" alt="" data-miniprofile="232027325"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198192293053" data-miniprofile="232027325">musle</a></div>
+		</td>
+		<td>32</td>
+		<td>4</td>
+		<td>0</td>
+		<td>9</td>
+		<td>2</td>
+		<td>25%</td>
+		<td>8</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">3 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>38</td>
+		<td>14</td>
+		<td>1</td>
+		<td>4</td>
+		<td>6</td>
+		<td>57%</td>
+		<td>31</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>40</td>
+		<td>4</td>
+		<td>5</td>
+		<td>5</td>
+		<td>3</td>
+		<td>100%</td>
+		<td>13</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 21:42:16 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:04					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 09:14					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay271.valve.net/730/003463692638752866684_0977834554.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198361525395"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/92/928b67e9f641b6ce72d31b0ca6061bea5186b321.jpg" alt="" data-miniprofile="401259667"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198361525395" data-miniprofile="401259667">S0wa</a></div>
+		</td>
+		<td>13</td>
+		<td>7</td>
+		<td>1</td>
+		<td>9</td>
+		<td>1</td>
+		<td>14%</td>
+		<td>15</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198178038466"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/2e/2ebbc3f9de6aea0d85e9bc62f580b65f2e2f82d2.jpg" alt="" data-miniprofile="217772738"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198178038466" data-miniprofile="217772738">kicikici</a></div>
+		</td>
+		<td>53</td>
+		<td>2</td>
+		<td>2</td>
+		<td>10</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>6</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">1 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>20</td>
+		<td>12</td>
+		<td>0</td>
+		<td>2</td>
+		<td>3</td>
+		<td>25%</td>
+		<td>28</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>11</td>
+		<td>7</td>
+		<td>2</td>
+		<td>7</td>
+		<td>6</td>
+		<td>42%</td>
+		<td>16</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 21:26:40 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:55					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 12:11					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003463691045319999731_1494221638.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198361525395"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/92/928b67e9f641b6ce72d31b0ca6061bea5186b321.jpg" alt="" data-miniprofile="401259667"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198361525395" data-miniprofile="401259667">S0wa</a></div>
+		</td>
+		<td>43</td>
+		<td>16</td>
+		<td>0</td>
+		<td>8</td>
+		<td>7</td>
+		<td>43%</td>
+		<td>32</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198178038466"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/2e/2ebbc3f9de6aea0d85e9bc62f580b65f2e2f82d2.jpg" alt="" data-miniprofile="217772738"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198178038466" data-miniprofile="217772738">kicikici</a></div>
+		</td>
+		<td>86</td>
+		<td>3</td>
+		<td>2</td>
+		<td>13</td>
+		<td>1</td>
+		<td>33%</td>
+		<td>8</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">8 : 8</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>17</td>
+		<td>14</td>
+		<td>2</td>
+		<td>9</td>
+		<td>6</td>
+		<td>14%</td>
+		<td>30</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>19</td>
+		<td>7</td>
+		<td>1</td>
+		<td>10</td>
+		<td>2</td>
+		<td>14%</td>
+		<td>15</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 21:14:48 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:34					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 08:24					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003463689052455174749_1503028096.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>13</td>
+		<td>15</td>
+		<td>0</td>
+		<td>2</td>
+		<td>7</td>
+		<td>26%</td>
+		<td>30</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>24</td>
+		<td>5</td>
+		<td>3</td>
+		<td>3</td>
+		<td>2</td>
+		<td>20%</td>
+		<td>13</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 2</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/id/Tsvetomirov"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/a5/a55851bc26438ce777c947a648fb65b53d87c2ad.jpg" alt="" data-miniprofile="75529855"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Tsvetomirov" data-miniprofile="75529855">I5DM_Rubik</a></div>
+		</td>
+		<td>46</td>
+		<td>3</td>
+		<td>0</td>
+		<td>10</td>
+		<td>1</td>
+		<td>33%</td>
+		<td>6</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/DoomiBamOida"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e8/e8486c379ef5a04a7b622855d9c6675659403174.jpg" alt="" data-miniprofile="105067836"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/DoomiBamOida" data-miniprofile="105067836">DooMi</a></div>
+		</td>
+		<td>55</td>
+		<td>2</td>
+		<td>2</td>
+		<td>10</td>
+		<td>1</td>
+		<td>50%</td>
+		<td>6</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 20:57:52 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:52					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 13:17					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay134.valve.net/730/003463687439694954767_1418839954.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>9</td>
+		<td>15</td>
+		<td>0</td>
+		<td>9</td>
+		<td>6</td>
+		<td>53%</td>
+		<td>30</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>11</td>
+		<td>2</td>
+		<td>1</td>
+		<td>12</td>
+		<td>1</td>
+		<td>50%</td>
+		<td>5</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">7 : 9</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198350967539"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/3a/3ade5fc783ec05624d839b8a8b945cf639e937a6.jpg" alt="" data-miniprofile="390701811"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198350967539" data-miniprofile="390701811">Varty</a></div>
+		</td>
+		<td>28</td>
+		<td>12</td>
+		<td>2</td>
+		<td>9</td>
+		<td>4</td>
+		<td>91%</td>
+		<td>26</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar in-game"><a href="https://steamcommunity.com/profiles/76561198119312938"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/6d/6d82ab32802b652bdfd03e5f8e72fc73c7a36914.jpg" alt="" data-miniprofile="159047210"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198119312938" data-miniprofile="159047210">wArt</a></div>
+		</td>
+		<td>16</td>
+		<td>9</td>
+		<td>0</td>
+		<td>8</td>
+		<td>5</td>
+		<td>22%</td>
+		<td>18</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/918049276003492338/300881C3587F245FF1B717092DF93836A1DD6E9D/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Shortnuke					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 20:46:48 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 01:12					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 06:47					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay195.valve.net/730/003463685225639313576_1487985249.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>16</td>
+		<td>11</td>
+		<td>1</td>
+		<td>0</td>
+		<td>6</td>
+		<td>9%</td>
+		<td>23</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>23</td>
+		<td>7</td>
+		<td>4</td>
+		<td>2</td>
+		<td>3</td>
+		<td>28%</td>
+		<td>18</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 0</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198277537398"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/82/82909b3473c376ff0214eec40ca8f38d48d1ba57.jpg" alt="" data-miniprofile="317271670"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198277537398" data-miniprofile="317271670">EON</a></div>
+		</td>
+		<td>42</td>
+		<td>1</td>
+		<td>0</td>
+		<td>9</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>2</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/profiles/76561198277083966"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/9a/9a9fc7d7923813f3dccd898e6b4a3e073fd72677.jpg" alt="" data-miniprofile="316818238"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/profiles/76561198277083966" data-miniprofile="316818238">potter  ♋</a></div>
+		</td>
+		<td>34</td>
+		<td>1</td>
+		<td>0</td>
+		<td>9</td>
+		<td>&nbsp;</td>
+		<td>100%</td>
+		<td>2</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 20:35:28 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:17					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 08:09					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay193.valve.net/730/003463683879167066750_1713493331.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/869754231"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/18/187ac080cea4220c3ec8edb5d622975d5ccefcf6.jpg" alt="" data-miniprofile="183720533"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/869754231" data-miniprofile="183720533">heynow</a></div>
+		</td>
+		<td>41</td>
+		<td>12</td>
+		<td>1</td>
+		<td>7</td>
+		<td>5</td>
+		<td>25%</td>
+		<td>25</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/OmegaMaxx"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/ba/ba957ace0702af43f903b26f60543149a7957d7e.jpg" alt="" data-miniprofile="291456892"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/OmegaMaxx" data-miniprofile="291456892">OmegaMaxx</a></div>
+		</td>
+		<td>15</td>
+		<td>7</td>
+		<td>0</td>
+		<td>4</td>
+		<td>4</td>
+		<td>&nbsp;</td>
+		<td>14</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">9 : 4</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>27</td>
+		<td>8</td>
+		<td>1</td>
+		<td>9</td>
+		<td>2</td>
+		<td>25%</td>
+		<td>17</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>27</td>
+		<td>3</td>
+		<td>2</td>
+		<td>10</td>
+		<td>2</td>
+		<td>33%</td>
+		<td>8</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr><tr style="display: table-row;">
+		<td class="val_left">
+			<img src="https://steamuserimages-a.akamaihd.net/ugc/666829239974957588/C390A1BB5CDFFDC7793B98143EB1177ACE38EC91/200x112.resizedimage" width="200" height="112" border="0">
+			<table class="csgo_scoreboard_inner_left">
+				<tbody><tr>
+					<td>
+						Wingman Cobblestone					</td>
+				</tr>
+				<tr>
+					<td>
+						2021-02-09 20:16:32 GMT					</td>
+				</tr>
+				<tr>
+					<td>
+						Wait Time: 00:14					</td>
+				</tr>
+								<tr>
+					<td>
+						Match Duration: 14:58					</td>
+				</tr>
+																	<tr>
+						<td class="csgo_scoreboard_cell_noborder">
+							<a target="_blank" href="http://replay191.valve.net/730/003463682416730702456_0529362297.dem.bz2">
+								<div class="btnv6_blue_hoverfade btn_medium csgo_scoreboard_btn_gotv">
+									Download GOTV Replay								</div>
+							</a>
+						</td>
+					</tr>
+							</tbody></table>
+			<br><br>
+		</td>
+		<td>
+			<table class="csgo_scoreboard_inner_right">
+				<tbody><tr>
+					<th class="inner_name">Player Name</th>
+					<th>Ping</th>
+					<th>K</th>
+					<th>A</th>
+					<th>D</th>
+					<th></th>
+					<th>HSP</th>
+					<th>Score</th>
+				</tr>
+									<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/869754231"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/18/187ac080cea4220c3ec8edb5d622975d5ccefcf6.jpg" alt="" data-miniprofile="183720533"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/869754231" data-miniprofile="183720533">heynow</a></div>
+		</td>
+		<td>33</td>
+		<td>13</td>
+		<td>1</td>
+		<td>9</td>
+		<td>5</td>
+		<td>23%</td>
+		<td>27</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/OmegaMaxx"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/ba/ba957ace0702af43f903b26f60543149a7957d7e.jpg" alt="" data-miniprofile="291456892"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/OmegaMaxx" data-miniprofile="291456892">OmegaMaxx</a></div>
+		</td>
+		<td>15</td>
+		<td>6</td>
+		<td>3</td>
+		<td>13</td>
+		<td>3</td>
+		<td>33%</td>
+		<td>15</td>
+	</tr>
+						<tr><td colspan="8" class="csgo_scoreboard_score">8 : 8</td></tr>
+						<tr>
+		<td class="inner_name">		<div class="playerAvatar offline"><a href="https://steamcommunity.com/id/Loviflo"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/62/62dd4d1ff63a5d4288937271293d293fd392161d.jpg" alt="" data-miniprofile="206808732"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Loviflo" data-miniprofile="206808732">Loviflo</a></div>
+		</td>
+		<td>25</td>
+		<td>15</td>
+		<td>1</td>
+		<td>9</td>
+		<td>7</td>
+		<td>26%</td>
+		<td>33</td>
+	</tr>
+		<tr>
+		<td class="inner_name">		<div class="playerAvatar online"><a href="https://steamcommunity.com/id/Ilesis"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/76/76849a47c22e2d976f175d90d9596cf090ffc504.jpg" alt="" data-miniprofile="236908418"></a></div>
+		<div class="playerNickname ellipsis"><a class="linkTitle" href="https://steamcommunity.com/id/Ilesis" data-miniprofile="236908418">Ilesis</a></div>
+		</td>
+		<td>28</td>
+		<td>7</td>
+		<td>4</td>
+		<td>10</td>
+		<td>1</td>
+		<td>42%</td>
+		<td>18</td>
+	</tr>
+				</tbody></table>
+			<br><br>
+		</td>
+	</tr></tbody>

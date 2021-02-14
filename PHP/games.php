@@ -46,7 +46,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="http://viviansrv.ddns.net/Images/logoCSGO.png">
     <title>Games</title>
 </head>
-<body>
+<body onload="test();">
 <?php include "../utils/header.php"; ?>
     <form method="GET" action="games.php">
         <div class="form-group">
@@ -89,15 +89,15 @@
         <tbody>
         <?php foreach ($rows as $keys => $value) { ?>
             <tr>
-                <td><?php echo $value['Date']; ?></td>
-                <td><?php echo $value['RankY']; ?></td>
-                <td><?php echo $value['RankV']; ?></td>
-                <td><?php echo $value['Score']; ?></td>
-                <td><?php echo $value['Carte']; ?></td>
-                <td><?php echo $value['Résultat']; ?></td>
-                <td><?php echo $value['RankE1']; ?></td>
-                <td><?php echo $value['RankE2']; ?></td>
-                <td><?php echo $value['Info']; ?></td>
+                <td class="test"><?php echo $value['Date']; ?></td>
+                <td class="test"><?php echo $value['RankY']; ?></td>
+                <td class="test"><?php echo $value['RankV']; ?></td>
+                <td class="test"><?php echo $value['Score']; ?></td>
+                <td class="test"><?php echo $value['Carte']; ?></td>
+                <td class="test"><?php echo $value['Résultat']; ?></td>
+                <td class="test"><?php echo $value['RankE1']; ?></td>
+                <td class="test"><?php echo $value['RankE2']; ?></td>
+                <td class="test"><?php echo $value['Info']; ?></td>
             </tr>
         <?php 
             $counter++; 
@@ -107,5 +107,6 @@
         </tbody>
     </table>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script src="../JS/script.js"></script>
 </body>
 </html>
