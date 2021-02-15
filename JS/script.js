@@ -8,3 +8,6 @@ function test() {
 function showAlert() {
   alert("Evènement de click détecté");
 }
+function changeColor(tr) {
+  tr.style.backgroundColor = "#fa4";
+}

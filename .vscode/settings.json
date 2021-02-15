@@ -9,7 +9,7 @@
             "port": 3307,
             "driver": "MySQL",
             "name": "Wingman",
-            "database": "wingman",
+            "database": "wingmantest",
             "username": "root",
             "password": "root"
         }
