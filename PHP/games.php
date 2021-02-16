@@ -10,22 +10,24 @@
     $params = [];
     if(!isset($_GET['matchScore'])){$_GET['matchScore'] = '';}
     if(!empty($_GET['matchScore'])) {
-        $where[] = 'matchScore = ?';
-        $params[] = $_GET['matchScore'];
+        $where[] = 'matchScore LIKE ?';
+        $params[] = "%" . $_GET['matchScore'] . "%";
     }
     if(!isset($_GET['map'])){$_GET['map'] = '';}
     if(!empty($_GET['map'])) {
-        $where[] = 'map LIKE ?';
-        $params[] = "%". $_GET['map'] . "%";
+        $where[] = 'map = ?';
+        $params[] = "%" . $_GET['map'] . "%";
     }
-    $sql = 'SELECT DISTINCT map, date, waitTime, matchDuration, matchScore FROM wingman';
+    $sql = "SELECT DISTINCT map, date, DATE_FORMAT(date,'%d/%m/%Y %H:%i'), waitTime, matchDuration, matchScore FROM wingman";
     if(count($where) > 0) {
         $whereClause = join(" AND ", $where);
         $sql .= " WHERE " . $whereClause;
     }
-    $sql .= " ORDER BY date DESC";
+    $sql .= " ORDER BY id";
     $sql .= " LIMIT $offset, $limit";
     $statement = $db->prepare($sql);
+    print_r($params);
+    echo $sql;
     if($statement !== false){
         $success = $statement->execute($params);
         if ($success) {
@@ -66,32 +68,34 @@
         </div>
         <button type="submit" class="btn btn-primary">Afficher</button>
     </form>
-    <table class="table table-striped">
-        <thead class="thead-dark">
-            <tr>
-                <th>Carte</th>
-                <th>Date</th>
-                <th>Temps d'attente</th>
-                <th>Temps du match</th>
-                <th>Score</th>
-            </tr>
-        </thead>
-        <tbody>
-        <?php foreach ($rows as $keys => $value) { ?>
-            <tr onmouseover="style.backgroundColor = '#fa2'" onmouseout="style.backgroundColor = '#fff'" onclick="window.location.href='http://viviansrv.ddns.net/PHP/game.php?date=<?php echo $value['date']; ?>'">
-                <td class="test"><?php echo $value['map']; ?></td>
-                <td class="test"><?php echo $value['date']; ?></td>
-                <td class="test"><?php echo $value['waitTime']; ?></td>
-                <td class="test"><?php echo $value['matchDuration']; ?></td>
-                <td class="test"><?php echo $value['matchScore']; ?></td>
-            </tr>
-        <?php 
-            $counter++; 
-            } 
-            echo "<h3>Nombre de lignes : " . $counter . "</h3>"
-        ?>
-        </tbody>
-    </table>
+    <div class="table-responsive">
+        <table class="table table-dark table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Carte</th>
+                    <th>Date</th>
+                    <th>Temps d'attente</th>
+                    <th>Temps du match</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody>
+            <?php foreach ($rows as $keys => $value) { ?>
+                <tr onclick="window.location.href='http://viviansrv.ddns.net/PHP/game.php?date=<?php echo $value['date']; ?>'">
+                    <td class="test"><?php echo $value['map']; ?></td>
+                    <td class="test"><?php echo $value['DATE_FORMAT(date,\'%d/%m/%Y %H:%i\')']; ?></td>
+                    <td class="test"><?php echo $value['waitTime']; ?></td>
+                    <td class="test"><?php echo $value['matchDuration']; ?></td>
+                    <td class="test"><?php echo $value['matchScore']; ?></td>
+                </tr>
+            <?php 
+                $counter++; 
+                } 
+                echo "<h3>Nombre de lignes : " . $counter . "</h3>";
+            ?>
+            </tbody>
+        </table>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     <script src="../JS/script.js"></script>
 </body>

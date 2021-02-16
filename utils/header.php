@@ -12,7 +12,7 @@
                 <a class="navbar-brand" href="http://viviansrv.ddns.net">Accueil</a>
                 <a class="nav-link active" aria-current="page" href="#">Formulaire</a>
                 <a class="nav-link" href="http://viviansrv.ddns.net/PHP/games.php">Statistiques</a>
-                <a class="nav-link" href="#">Profil</a>
+                <a class="nav-link" href="http://viviansrv.ddns.net/PHP/profil.php">Profil</a>
             </div>
         </div>
     </div>
