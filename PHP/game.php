@@ -55,9 +55,7 @@
                     <td class="test"><?php echo $value['playerScore']; ?></td>
                     <td class="test"><?php echo $value['rank']; ?></td>
                 </tr>
-            <?php 
-                }
-            ?>
+            <?php } ?>
             </tbody>
         </table>
     </div>

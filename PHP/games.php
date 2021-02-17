@@ -15,7 +15,7 @@
     }
     if(!isset($_GET['map'])){$_GET['map'] = '';}
     if(!empty($_GET['map'])) {
-        $where[] = 'map = ?';
+        $where[] = 'map LIKE ?';
         $params[] = "%" . $_GET['map'] . "%";
     }
     $sql = "SELECT DISTINCT map, date, DATE_FORMAT(date,'%d/%m/%Y %H:%i'), waitTime, matchDuration, matchScore FROM wingman";
@@ -26,8 +26,6 @@
     $sql .= " ORDER BY id";
     $sql .= " LIMIT $offset, $limit";
     $statement = $db->prepare($sql);
-    print_r($params);
-    echo $sql;
     if($statement !== false){
         $success = $statement->execute($params);
         if ($success) {
@@ -43,30 +41,34 @@
     <title>Parties</title>
 </head>
 <body onload="test();">
-<?php include "../utils/header.php"; ?>
+    <?php include "../utils/header.php"; ?>
     <form method="GET" action="games.php">
-        <div class="form-group">
-        <label class="form-label">Limit</label>
-        <?php echo '<input type="text" class="form-control" name="limit" value="'. $limit .'" id="" placeholder="Limite...">'; ?>
-        <label class="form-label">matchScore</label>
-        <?php echo '<input type="text" class="form-control" name="matchScore" value="'. $_GET["matchScore"] .'" id="" placeholder="matchScore...">'; ?>
-        <label for="">map</label>
-        <select class="form-control" name="map">
-            <option value="">Choisi une map</option>
-            <option <?php echo $_GET['map'] == 'Nuke' ? 'selected' : ''; ?>>Nuke</option>
-            <option <?php echo $_GET['map'] == 'Cobblestone' ? 'selected' : ''; ?>>Cobblestone</option>
-            <option <?php echo $_GET['map'] == 'Lake' ? 'selected' : ''; ?>>Lake</option>
-            <option <?php echo $_GET['map'] == 'Inferno' ? 'selected' : ''; ?>>Inferno</option>
-            <option <?php echo $_GET['map'] == 'Train' ? 'selected' : ''; ?>>Train</option>
-            <option <?php echo $_GET['map'] == 'Overpass' ? 'selected' : ''; ?>>Overpass</option>
-            <option <?php echo $_GET['map'] == 'Rialto' ? 'selected' : ''; ?>>Rialto</option>
-            <option <?php echo $_GET['map'] == 'Vertigo' ? 'selected' : ''; ?>>Vertigo</option>
-            <option <?php echo $_GET['map'] == 'Elysion' ? 'selected' : ''; ?>>Elysion</option>
-            <option <?php echo $_GET['map'] == 'Guard' ? 'selected' : ''; ?>>Guard</option>
-            <option <?php echo $_GET['map'] == 'Shortdust' ? 'selected' : ''; ?>>Shortdust</option>
-        </select>
+        <div class="form-group mt-2 mx-5">
+            <div class="form-floating mb-3">
+                <input name="limit" type="text" class="form-control" id="floatingInput" value="<?php echo $limit; ?>" placeholder="Limite...">
+                <label for="floatingInput">Limite</label>
+            </div>
+            <div class="form-floating">
+                <input name="matchScore" type="text" class="form-control" id="floatingPassword" value="<?php echo $_GET['matchScore']; ?>" placeholder="Score du match...">
+                <label for="floatingPassword">Score du match</label>
+            </div>
+            <label for="">map</label>
+            <select class="form-control" name="map">
+                <option value="">Choisi une map</option>
+                <option <?php echo $_GET['map'] == 'Nuke' ? 'selected' : ''; ?>>Nuke</option>
+                <option <?php echo $_GET['map'] == 'Cobblestone' ? 'selected' : ''; ?>>Cobblestone</option>
+                <option <?php echo $_GET['map'] == 'Lake' ? 'selected' : ''; ?>>Lake</option>
+                <option <?php echo $_GET['map'] == 'Inferno' ? 'selected' : ''; ?>>Inferno</option>
+                <option <?php echo $_GET['map'] == 'Train' ? 'selected' : ''; ?>>Train</option>
+                <option <?php echo $_GET['map'] == 'Overpass' ? 'selected' : ''; ?>>Overpass</option>
+                <option <?php echo $_GET['map'] == 'Rialto' ? 'selected' : ''; ?>>Rialto</option>
+                <option <?php echo $_GET['map'] == 'Vertigo' ? 'selected' : ''; ?>>Vertigo</option>
+                <option <?php echo $_GET['map'] == 'Elysion' ? 'selected' : ''; ?>>Elysion</option>
+                <option <?php echo $_GET['map'] == 'Guard' ? 'selected' : ''; ?>>Guard</option>
+                <option <?php echo $_GET['map'] == 'Shortdust' ? 'selected' : ''; ?>>Shortdust</option>
+            </select>
         </div>
-        <button type="submit" class="btn btn-primary">Afficher</button>
+        <button type="submit" class="btn btn-primary mt-2 ms-5">Afficher</button>
     </form>
     <div class="table-responsive">
         <table class="table table-dark table-hover">
