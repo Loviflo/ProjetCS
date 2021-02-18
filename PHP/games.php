@@ -3,9 +3,12 @@
 
     ini_set('display_errors', 1);
 
+    $db = getDatabaseConnection();
+
     $offset = isset($_GET['offset']) && !empty($_GET['offset']) ? intval($_GET['offset']) : 0;
     $limit = isset($_GET['limit']) && !empty($_GET['limit']) ? intval($_GET['limit']) : 100;
-    $db = getDatabaseConnection();
+    $by = isset($_GET['by']) && !empty($_GET['by']) ? $_GET['by'] : 'id';
+    $order = isset($_GET['order']) && !empty($_GET['order']) ? $_GET['order'] : 'DESC';
     $where = [];
     $params = [];
     if(!isset($_GET['matchScore'])){$_GET['matchScore'] = '';}
@@ -23,7 +26,7 @@
         $whereClause = join(" AND ", $where);
         $sql .= " WHERE " . $whereClause;
     }
-    $sql .= " ORDER BY id";
+    $sql .= " ORDER BY $by $order";
     $sql .= " LIMIT $offset, $limit";
     $statement = $db->prepare($sql);
     if($statement !== false){
@@ -75,9 +78,9 @@
             <thead class="thead-dark">
                 <tr>
                     <th>Carte</th>
-                    <th>Date</th>
-                    <th>Temps d'attente</th>
-                    <th>Temps du match</th>
+                    <th onclick="window.location.href='http://viviansrv.ddns.net/PHP/games.php?by=date&order=ASC'">Date</th>
+                    <th onclick="window.location.href='http://viviansrv.ddns.net/PHP/games.php?by=waitTime&order=ASC'">Temps d'attente</th>
+                    <th onclick="window.location.href='http://viviansrv.ddns.net/PHP/games.php?by=matchDuration&order=ASC'">Temps du match</th>
                     <th>Score</th>
                 </tr>
             </thead>

@@ -3,7 +3,7 @@
     ini_set('display_errors', 1);
     $db = getDatabaseConnection();
     $date = $_GET['date'];
-    $sql = "SELECT *, DATE_FORMAT(date,'%d/%m/%Y %H:%i') FROM wingman WHERE date = '$date' ORDER BY id ASC";
+    $sql = "SELECT *, DATE_FORMAT(date,'%d/%m/%Y %H:%i') FROM wingman WHERE date = '$date' ORDER BY id DESC";
     $statement = $db->prepare($sql);
     if($statement !== false){
         $success = $statement->execute();

@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <a class="navbar-brand" href="http://viviansrv.ddns.net ">
             <img src="http://viviansrv.ddns.net/Images/logoCSGO.png" alt="" width="30" height="24" class="d-inline-block align-top">
-            CS GO
+            CS <span style="color: orange;">GO</span>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
