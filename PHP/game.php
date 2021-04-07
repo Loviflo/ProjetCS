@@ -1,17 +1,30 @@
 <?php 
     require '../utils/database.php';
-    ini_set('display_errors', 1);
+    ini_set('display_errors', 0);
     $db = getDatabaseConnection();
     $date = $_GET['date'];
-    $sql = "SELECT *, DATE_FORMAT(date,'%d/%m/%Y %H:%i') FROM wingman WHERE date = '$date' ORDER BY id DESC";
+    $sql = "SELECT *, DATE_FORMAT(date,'%d/%m/%Y %H:%i'), CONCAT(hsp,'%') as hsp, CONCAT(mvp,'⭐') as mvp FROM wingman WHERE date = '$date' ORDER BY id DESC";
     $statement = $db->prepare($sql);
     if($statement !== false){
         $success = $statement->execute();
         if ($success) {
-            $rows = $statement->fetchAll(PDO::FETCH_ASSOC);
+            $rows = $statement->fetchAll(PDO::FETCH_BOTH);
         }
     }
 
+    $mvps = 0;
+    foreach ($rows as $key => $value) {
+        if ($value['playerName'] == 'Loviflo' || $value['playerName'] == 'Ilesis') {
+            $mvps += $value['mvp'];
+        }
+    }
+    if ($mvps > 8) {
+        $result = 'Victoire';  
+    } elseif ($mvps == 8) {
+        $result = 'Egalité';
+    } else {
+        $result = 'Défaite';
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -66,24 +79,7 @@
             <div class="col"><?php echo '<h3>' . $value['waitTime'] . '</h3>' ?></div>
             <div class="col"><?php echo '<h3>' . $value['matchDuration'] . '</h3>' ?></div>
             <div class="col"><?php echo '<h3>' . $value['matchScore'] . '</h3>' ?></div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
-            <p><?php echo $value['map'] ?></p>
-            <p><?php echo $value['date'] ?></p>
-            </div>
-            <div class="col-lg-9">
-                <div class="row">
-                    <div class="col-6 col-lg-6">
-                    <p><?php echo $value['playerName'] ?></p>
-                    </div>
-                    <div class="col-6 col-lg-6">
-                    Level 2: .col-4 .col-sm-6
-                    </div>
-                </div>
-            </div>
+            <div class="col"><?php echo '<h3>' . $result . '</h3>'; ?></div>
         </div>
     </div>
 </body>

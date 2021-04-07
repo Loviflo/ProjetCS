@@ -1,5 +1,5 @@
 <?php
-    require '../utils/database.php'; 
+    require_once '../utils/database.php'; 
 
     ini_set('display_errors', 1);
 
@@ -7,7 +7,7 @@
 
     $offset = isset($_GET['offset']) && !empty($_GET['offset']) ? intval($_GET['offset']) : 0;
     $limit = isset($_GET['limit']) && !empty($_GET['limit']) ? intval($_GET['limit']) : 100;
-    $by = isset($_GET['by']) && !empty($_GET['by']) ? $_GET['by'] : 'id';
+    $by = isset($_GET['by']) && !empty($_GET['by']) ? $_GET['by'] : 'matchDate';
     $order = isset($_GET['order']) && !empty($_GET['order']) ? $_GET['order'] : 'DESC';
     $where = [];
     $params = [];
@@ -21,7 +21,12 @@
         $where[] = 'map LIKE ?';
         $params[] = "%" . $_GET['map'] . "%";
     }
-    $sql = "SELECT DISTINCT map, date, DATE_FORMAT(date,'%d/%m/%Y %H:%i'), waitTime, matchDuration, matchScore FROM wingman";
+    if(!isset($_GET['result'])){$_GET['result'] = '';}
+    if(!empty($_GET['result'])) {
+        $where[] = 'result = ?';
+        $params[] = $_GET['result'];
+    }
+    $sql = "SELECT matchDate, DATE_FORMAT(matchDate,'%d/%m/%Y %H:%i') as date, map, waitTime, matchDuration, matchScore, result FROM displaygames";
     if(count($where) > 0) {
         $whereClause = join(" AND ", $where);
         $sql .= " WHERE " . $whereClause;
@@ -70,6 +75,13 @@
                 <option <?php echo $_GET['map'] == 'Guard' ? 'selected' : ''; ?>>Guard</option>
                 <option <?php echo $_GET['map'] == 'Shortdust' ? 'selected' : ''; ?>>Shortdust</option>
             </select>
+            <label for="">Résultat</label>
+            <select class="form-control" name="result">
+                <option value="">Chosi un résultat</option>
+                <option <?php echo $_GET['result'] == 'Victoire' ? 'selected' : ''; ?>>Victoire</option>
+                <option <?php echo $_GET['result'] == 'Défaite' ? 'selected' : ''; ?>>Défaite</option>
+                <option <?php echo $_GET['result'] == 'Egalité' ? 'selected' : ''; ?>>Egalité</option>
+            </select>
         </div>
         <button type="submit" class="btn btn-primary mt-2 ms-5">Afficher</button>
     </form>
@@ -82,16 +94,18 @@
                     <th onclick="window.location.href='http://viviansrv.ddns.net/PHP/games.php?by=waitTime&order=ASC'">Temps d'attente</th>
                     <th onclick="window.location.href='http://viviansrv.ddns.net/PHP/games.php?by=matchDuration&order=ASC'">Temps du match</th>
                     <th>Score</th>
+                    <th>Résultat</th>
                 </tr>
             </thead>
             <tbody>
             <?php foreach ($rows as $keys => $value) { ?>
-                <tr onclick="window.location.href='http://viviansrv.ddns.net/PHP/game.php?date=<?php echo $value['date']; ?>'">
+                <tr onclick="window.location.href='http://viviansrv.ddns.net/PHP/game.php?date=<?php echo $value['matchDate']; ?>'">
                     <td class="test"><?php echo $value['map']; ?></td>
-                    <td class="test"><?php echo $value['DATE_FORMAT(date,\'%d/%m/%Y %H:%i\')']; ?></td>
+                    <td class="test"><?php echo $value['date']; ?></td>
                     <td class="test"><?php echo $value['waitTime']; ?></td>
                     <td class="test"><?php echo $value['matchDuration']; ?></td>
                     <td class="test"><?php echo $value['matchScore']; ?></td>
+                    <td class="test"><?php echo $value['result']; ?></td>
                 </tr>
             <?php 
                 $counter++; 

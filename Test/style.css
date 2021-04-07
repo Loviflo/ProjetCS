@@ -1,0 +1,172 @@
+@font-face {
+  font-family: Lobster-Regular;
+  src: url("../font/Lobster-Regular.woff") format("woff");
+}
+body {
+  background-color: #b7d0f6;
+  margin: 0;
+  z-index: 1;
+  position: relative;
+}
+
+h1 {
+  font-family: Lobster-Regular;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: #336ab2;
+  font-size: 50px;
+}
+p {
+  margin-left: 50px;
+}
+nav {
+  background-color: #336ab2;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+nav li {
+  list-style: none;
+}
+nav a {
+  color: white;
+}
+nav a:hover {
+  color: #e0e0e0;
+}
+th {
+  background-color: #336ab2;
+  color: white;
+  border: 1px solid #e0e0e0;
+  text-align: center;
+}
+td {
+  border: 1px solid #e0e0e0;
+  padding: 5px;
+}
+table:hover td {
+  border: 1px solid #336ab2;
+}
+.div_table {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+.div_img {
+  margin-top: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div_filtre {
+  display: flex;
+  justify-content: center;
+}
+.div_checkbox {
+  height: 200px;
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #336ab2;
+  border: 3px solid white;
+  color: white;
+}
+.div_checkbox div {
+  display: flex;
+  flex-direction: column;
+}
+.input_check {
+  float: left;
+  padding-right: 10px;
+}
+.input_check input {
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+.vr {
+  border-left: 2px solid #b7d0f6;
+  height: 500px;
+}
+.btn_filtre {
+  display: flex;
+  justify-content: center;
+}
+.btn_filtre button {
+  background-color: #336ab2;
+  border: 1px solid white;
+  color: white;
+  margin-right: 10px;
+}
+.btn_filtre button:hover {
+  filter: drop-shadow(0 0 0.55rem #e0eaf5);
+  cursor: pointer;
+}
+.fonction_hidden {
+  display: none;
+}
+.div_afficher {
+  text-align: center;
+}
+.formSalarie {
+  display: none;
+  justify-content: center;
+  z-index: 2;
+  position: absolute;
+  background: rgb(245 245 245 / 90%);
+  top: 100px;
+  width: 100%;
+  height: 500px;
+  box-shadow: 10px 10px 150px #000;
+}
+.formSalarie div {
+  background-color: #336ab2;
+  color: white;
+  text-align: center;
+}
+.formSalarie h1 {
+  color: white;
+  margin-top: -1px;
+  margin-right: 50px;
+}
+
+.div_date_form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.div_salarie_form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.starwars_img {
+  background-image: url("img/starwars.svg");
+  width: 100%;
+  height: 10em;
+}
+.table_starwars {
+  text-align: center;
+  color: white;
+}
+.table_starwars td {
+  padding: 10px;
+}
+.table_starwars th {
+  padding: 10px;
+}
+.div_table_starwars {
+  height: 20em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn_starwars {
+  display: flex;
+  justify-content: center;
+}

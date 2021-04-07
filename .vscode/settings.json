@@ -12,6 +12,19 @@
             "database": "wingmantest",
             "username": "root",
             "password": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.39",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "WingmanSRV",
+            "database": "wingman",
+            "username": "Admin",
+            "password": "4qXNvzsq"
         }
     ]
 }

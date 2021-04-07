@@ -1,0 +1,13 @@
+.gradientOui {
+  font-size: 2.5rem;
+  font-size: 42px;
+  background: -webkit-radial-gradient(
+    rgb(226, 204, 80),
+    rgb(193, 191, 107),
+    rgb(157, 178, 130),
+    rgb(114, 165, 151),
+    rgb(36, 153, 170)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

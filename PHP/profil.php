@@ -3,7 +3,7 @@
     ini_set('display_errors', 1);
     $db = getDatabaseConnection();
     
-    $sql = "SELECT AVG(kills),AVG(assists),AVG(deaths),AVG(mvp),AVG(hsp),AVG(adr),AVG(ud),AVG(ef),AVG(playerScore),SUM(kills),SUM(assists),SUM(deaths),SUM(mvp),SUM(ud),SUM(ef),SUM(playerScore) FROM wingman WHERE playerName = 'Loviflo'";
+    $sql = "SELECT ROUND(AVG(kills),2),ROUND(AVG(assists),2),ROUND(AVG(deaths),2),CONCAT(ROUND(AVG(mvp),2),'⭐'),CONCAT(ROUND(AVG(hsp),2),'%'),ROUND(AVG(adr),2),ROUND(AVG(ud),2),ROUND(AVG(ef),2),ROUND(AVG(playerScore),2),SUM(kills),SUM(assists),SUM(deaths),SUM(mvp),SUM(ud),SUM(ef),SUM(playerScore) FROM wingman WHERE playerName = 'Loviflo'";
     $statement = $db->prepare($sql);
     if($statement !== false){
         $success = $statement->execute();
@@ -13,7 +13,7 @@
     }
     foreach ($rows as $keys => $value) {}
 
-    $sql2 = "SELECT AVG(kills),AVG(assists),AVG(deaths),AVG(mvp),AVG(hsp),AVG(adr),AVG(ud),AVG(ef),AVG(playerScore),SUM(kills),SUM(assists),SUM(deaths),SUM(mvp),SUM(ud),SUM(ef),SUM(playerScore) FROM wingman WHERE playerName = 'Ilesis'";
+    $sql2 = "SELECT ROUND(AVG(kills),2),ROUND(AVG(assists),2),ROUND(AVG(deaths),2),CONCAT(ROUND(AVG(mvp),2),'⭐'),CONCAT(ROUND(AVG(hsp),2),'%'),ROUND(AVG(adr),2),ROUND(AVG(ud),2),ROUND(AVG(ef),2),ROUND(AVG(playerScore),2),SUM(kills),SUM(assists),SUM(deaths),SUM(mvp),SUM(ud),SUM(ef),SUM(playerScore) FROM wingman WHERE playerName = 'Ilesis'";
     $statement = $db->prepare($sql2);
     if($statement !== false){
         $success = $statement->execute();
@@ -63,8 +63,8 @@
     }
     foreach ($rows as $keys => $valueIlesis2Weeks) {}
 
-    $ratio = $value['SUM(kills)']/$value['SUM(deaths)'];
-    $ratio2 = $value2['SUM(kills)']/$value2['SUM(deaths)'];
+    $ratio = round($value['SUM(kills)']/$value['SUM(deaths)'],3);
+    $ratio2 = round($value2['SUM(kills)']/$value2['SUM(deaths)'],3);
     $description = ['Moyenne des kills','Moyenne d\'assists','Moyenne des morts','Moyenne des MVP','Moyenne des HSP','Moyenne de l\'ADR','Moyenne des dégâts divers','Moyenne des ennemies flashés','Moyenne des scores','Total des kills','Total des assists','Total des morts','Total des MVP','Total des dégâts divers','Total des ennemies flashés','Total des scores'];
 
     for ($i=0; $i < 9; $i++) { 
@@ -105,7 +105,7 @@
         <div class="row justify-content-evenly">
             <div class="col-xl-5">
                 <div class="card border-dark text-center mt-3">
-                  <img class="card-img-top" src="" alt="">
+                  <!-- <img class="card-img-top" src="" alt=""> -->
                   <div class="card-body">
                     <h4 class="card-title">Loviflo</h4>
                     <p class="card-text">Vivian</p>
@@ -144,7 +144,7 @@
             
             <div class="col-xl-5">
                 <div class="card border-dark text-center mt-lg-3">
-                  <img class="card-img-top" src="holder.js/100px180/" alt="">
+                  <!-- <img class="card-img-top" src="holder.js/100px180/" alt=""> -->
                   <div class="card-body">
                     <h4 class="card-title">Ilesis</h4>
                     <p class="card-text">Yanic</p>

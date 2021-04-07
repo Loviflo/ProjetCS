@@ -24,20 +24,24 @@ union
 select maxid,map,matchDate, waitTime, matchDuration, matchScore,'Egalité' as result from 
 (SELECT  max(id) as maxid, map, date matchDate, waitTime, matchDuration, matchScore 
 FROM wingman w group by map, date, waitTime, matchDuration, matchScore)  as wingf 
- where matchScore like '%8%' ; */
+where matchScore like '%8%' ; */
+
+SELECT * FROM displayGames;
+SELECT * FROM wingman;
+/* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,count(*)  from displaygames where result='Egalité' group by date order by matchDate desc */
+/* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,count(*)  from displaygames where result='Egalité' group by date having count(*)>4 order by matchDate desc */
+/* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,count(*)  from displaygames where result='Egalité' group by date order by count(*) desc */
+/* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,(SELECT count(*) FROM displaygames WHERE result = 'Défaite' AND DATE_FORMAT(dg.matchDate,'%d/%m/%Y') = DATE_FORMAT(matchDate,'%d/%m/%Y') having count(*)>0)  from displaygames as dg GROUP BY date */
 
 
-  -- select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,count(*)  from displaygames where result='Egalité' group by date order by matchDate desc
-  /* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,count(*)  from displaygames where result='Egalité' group by date having count(*)>4 order by matchDate desc */
-  /* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,count(*)  from displaygames where result='Egalité' group by date order by count(*) desc */
-  /* select DATE_FORMAT(matchDate,'%d/%m/%Y') as date,(SELECT count(*) FROM displaygames WHERE result = 'Défaite' AND DATE_FORMAT(dg.matchDate,'%d/%m/%Y') = DATE_FORMAT(matchDate,'%d/%m/%Y') having count(*)>0)  from displaygames as dg GROUP BY date */
-
-/* 
-(SELECT  max(id) as maxid, map, DATE_FORMAT(date,'%d/%m/%Y %H:%i') matchDate, waitTime, matchDuration, matchScore 
-FROM wingman w group by map, DATE_FORMAT(date,'%d/%m/%Y %H:%i'), waitTime, matchDuration, matchScore)  as wingf
+/* (SELECT  max(id) as maxid, map, DATE_FORMAT(date,'%d/%m/%Y %H:%i') matchDate, waitTime, matchDuration, matchScore 
+FROM wingman w group by map, DATE_FORMAT(date,'%d/%m/%Y %H:%i'), waitTime, matchDuration, matchScore)  as wingf */
 
 
-select * from wingf
+/* select * from wingf
 where ((select playername from wingman where id=wingf.maxid) in ('Loviflo','Ilesis') and matchScore like '9%') Or 
-((select playername from wingman where id=wingf.maxid) not in ('Loviflo','Ilesis') and matchScore like '%9')
- */
+((select playername from wingman where id=wingf.maxid) not in ('Loviflo','Ilesis') and matchScore like '%9') */
+
+
+
+
